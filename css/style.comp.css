@@ -500,7 +500,7 @@ body {
     display: inline-block;
     height: 100%;
     width: 100%;
-    transition: all 2s; }
+    transition: all .2s; }
   .btn__visible {
     padding: 2rem 7.5rem; }
   .btn__invisible {
